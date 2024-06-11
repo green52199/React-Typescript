@@ -105,7 +105,6 @@ dist
 .tern-port
 
 # Stores VSCode versions used for testing VSCode extensions
-.vscode-test
 
 # Idea / Jetbrains IDE
 .idea
@@ -135,3 +134,7 @@ website/src/pages/contributors.md
 # Lock-files
 package-lock.json
 yarn.lock
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
